@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+p{
+    color: darkorchid;
+    
+}
+.section1{
+
+background-color: darkgreen(219, 216, 216);
+margin-left:100px ;
+margin-right: 100px;
+height: 300px;
+
+}
+.logo{
+
+    background-color:lightpink;
+    width: 100%;
+}
+.logo1{
+
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.logo2{
+
+    text-align: center;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 400px;
+
+}
+h2{
+    text-align: center;
+}
+.words1{
+    text-transform: uppercase;
+    color: black;
+    font-style: italic;
+    padding-left: 15px;
+    padding-top: 5px;
+    
+
+
+}
+
+.words2{
+    color: lightgrey;
+    font-style: italic;
+    padding-left: 15px;
+    padding-top: 5px;
+
+
+
+}
+.box1{
+height: 25px;
+width: 95%;
+border: 2px solid darkviolet;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.small{
+
+    font-size: 10px;
+}
+.textbox{
+    height: 25px;
+border: 2px solid darkviolet;
+margin-left: 10px;
+margin-top: 10px;
+width: 272px;
+
+}
+.third{
+    margin-left: 10px;
+}
+.selectbox{
+    margin-left: 10px;
+    width: 95%;
+    height: 30px;
+}
+/* section 2 */
+.section2{
+    background-color: rgb(219, 216, 216);
+    margin-left:100px ;
+    margin-right: 100px;
+    height: 130px;
+    margin-top: 30px;
+
+}
+.head1{
+text-transform: uppercase;
+color: black;
+margin-left: 10px;
+font-style: italic;
+
+}
+/* section 3 */
+.section3{
+    background-color: rgb(219, 216, 216);
+    margin-left:100px ;
+    margin-right: 100px;
+    height: 150px;
+    margin-top: 20px;
+}    
+.year{
+    margin-left: 10px;
+    width: 150px;
+    height: 30px;
+}
+.head3{
+    margin-left: 10px;
+
+}
+/* section 4 */
+.section4{
+    background-color: rgb(219, 216, 216);
+    margin-left:100px ;
+    margin-right: 100px;
+    height: 350px;
+    margin-top: 20px;
+}    
+.head4{
+    margin-left: 10px;
+    font-style: normal;
+    color: black;
+}
+.button1{
+
+    margin-left: 400px;
+    width: 200px;
+    height: 50px;
+    margin-top: 100px;
+    background-color: darkgreen;
+    color: white;
+    
+}
